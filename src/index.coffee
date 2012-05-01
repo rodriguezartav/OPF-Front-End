@@ -85,14 +85,14 @@ class Module
 Opf = @Opf   = {}
 module.exports  = Opf
 
-Opf.version    = '0.0.3'
+Opf.version    = '0.0.5'
 Opf.debug      = false
 Opf.Events     = Events
 Opf.Log        = Log
 Opf.log        = Log.log
 Opf.Module     = Module
 Opf.Salesforce = require("./salesforce")
-Opf.Cors = require("./salesforce")
+Opf.Cors = require("./cors")
 
 # Global events
 
