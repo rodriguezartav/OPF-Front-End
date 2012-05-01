@@ -1,7 +1,7 @@
 {
   "author": "rodriguezartav",
   "name": "OPF",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "repository": {
     "url": "https://github.com/rodriguezartav/OPF"
   },
@@ -9,7 +9,7 @@
     "node": "~0.6.6"
   },
   "dependencies": {
-    "coffee-script" : "~1.1.3"
+    "restler"   : "~2.0.0"
   },
   "devDependencies": {},
   

@@ -85,7 +85,7 @@ class Module
 Opf = @Opf   = {}
 module.exports  = Opf
 
-Opf.version    = '0.0.2'
+Opf.version    = '0.0.3'
 Opf.debug      = false
 Opf.Events     = Events
 Opf.Log        = Log
