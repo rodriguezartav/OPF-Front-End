@@ -13,6 +13,6 @@
   },
   "devDependencies": {},
   
-  "main" : "./index.js"
+  "main" : "./lib/index.js"
   
 }
